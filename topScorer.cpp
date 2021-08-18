@@ -33,7 +33,7 @@ int main()
 {
 	int n;
 	cin >> n ; 
-    priority_queue<participants , vector<participants> , compare> pq ;
+        priority_queue<participants , vector<participants> , compare> pq ;
 	for(int i =0 ;i < n;i++){
 		string str; 
 		int score ; 
